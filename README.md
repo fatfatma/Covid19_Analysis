@@ -33,7 +33,7 @@ It uses Python, Pandas, and Matplotlib to perform basic data analysis and create
 - Python 3.x  
 - Pandas  
 - Matplotlib  
-- Jupyter Notebook
+- Pycharm
 
 ---
 
